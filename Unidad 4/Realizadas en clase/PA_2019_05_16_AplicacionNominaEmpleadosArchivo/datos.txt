@@ -1,0 +1,139 @@
+28
+A
+505
+Hernandez Mendez Ruben
+16
+364.0
+V
+505
+Perez Hernandez Laura
+45000.0
+2.0
+V
+746
+Gomez Garcia Laura
+43000.0
+5.5
+E
+827
+Hernandez Hernandez Luis
+A
+840
+Lopez Ortiz Ruben
+29
+335.0
+T
+978
+Perez Fernandez Luis
+566
+8.0
+T
+369
+Hernandez Ortiz Jesus
+697
+4.5
+EJ
+415
+Hernandez Hernandez Maria
+7
+438.0
+20000.0
+EJ
+616
+Fernandez Garcia Luis
+21
+332.0
+14000.0
+V
+965
+Ruiz Mendez Diana
+47000.0
+2.5
+V
+152
+Garcia Lopez Pedro
+37000.0
+5.5
+EJ
+953
+Garcia Lopez Diana
+20
+178.0
+7000.0
+EJ
+590
+Mendez Ortiz Patricia
+29
+238.0
+8000.0
+V
+889
+Perez Garcia Ruben
+12000.0
+6.0
+E
+939
+Ortiz Gomez Ruben
+EJ
+686
+Ruiz Hernandez Juan
+19
+381.0
+20000.0
+E
+440
+Fernandez Gomez Jesus
+V
+643
+Fernandez Fernandez Ruben
+59000.0
+9.5
+EJ
+610
+Fernandez Gomez Laura
+20
+150.0
+14000.0
+EJ
+413
+Lopez Ruiz Patricia
+25
+328.0
+18000.0
+EJ
+356
+Ruiz Gomez Juan
+30
+263.0
+8000.0
+A
+825
+Ruiz Garcia Luis
+23
+489.0
+E
+592
+Ruiz Perez Diana
+T
+186
+Mendez Lopez Laura
+477
+4.25
+V
+199
+Perez Mendez Jesus
+47000.0
+9.0
+E
+209
+Ortiz Perez Diana
+V
+196
+Gomez Fernandez Juan
+48000.0
+4.0
+T
+363
+Fernandez Garcia Ruben
+364
+3.0

@@ -1,0 +1,241 @@
+40
+Jesus Fernandez Mendez
+80
+99
+81
+57
+61
+Patricia Hernández Fernandez
+99
+96
+67
+98
+66
+[Juan García Hernández
+57
+87
+43
+76
+72
+[Juan Ortiz Ruiz
+62
+73
+55
+94
+57
+Jorge Lopéz Ruiz
+96
+89
+66
+80
+54
+Daniel García Hernández
+85
+80
+54
+95
+79
+Miguel Hernández Hernández
+66
+63
+75
+71
+99
+Jorge Hernández Fernandez
+92
+65
+62
+62
+74
+[Juan Goméz Hernández
+86
+90
+83
+59
+82
+Pedro Mendez Mendez
+49
+45
+74
+86
+71
+Luis Pérez Fernandez
+46
+63
+91
+40
+61
+Jesus Ortiz Mendez
+55
+82
+57
+89
+89
+Jorge Ruiz Goméz
+50
+54
+50
+88
+76
+[Juan Pérez Hernández
+91
+73
+96
+75
+50
+Ruben Lopéz Ruiz
+94
+52
+69
+41
+91
+Jesus Ortiz Pérez
+94
+86
+99
+97
+73
+Ruben Goméz Ruiz
+59
+82
+97
+86
+96
+Jorge Fernandez García
+88
+49
+40
+58
+44
+Patricia Goméz Ruiz
+53
+78
+78
+73
+82
+[Juan García Hernández
+58
+59
+58
+40
+78
+Jesus Goméz Goméz
+49
+68
+45
+89
+89
+Luis Ruiz Lopéz
+96
+56
+57
+91
+69
+Pedro Ortiz Hernández
+88
+97
+85
+80
+64
+Jesus Goméz Hernández
+86
+51
+68
+52
+80
+Patricia Hernández Ortiz
+42
+73
+93
+45
+45
+Jorge Ruiz Ruiz
+58
+76
+41
+59
+45
+Miguel Goméz García
+66
+97
+56
+98
+46
+Patricia Ruiz Hernández
+87
+52
+74
+96
+59
+Patricia Ortiz García
+87
+72
+47
+70
+83
+[Juan Mendez Mendez
+95
+80
+78
+68
+96
+Luis Ruiz Lopéz
+44
+46
+57
+67
+61
+Daniel Lopéz Goméz
+85
+91
+47
+45
+75
+Miguel Fernandez Mendez
+62
+75
+41
+40
+47
+[Juan Mendez Hernández
+62
+52
+49
+48
+78
+Luis Ortiz Pérez
+42
+71
+89
+56
+59
+Patricia Ruiz Hernández
+83
+96
+89
+41
+44
+Jesus Pérez Fernandez
+67
+97
+72
+48
+89
+Daniel Hernández Ortiz
+84
+95
+86
+50
+99
+Miguel García Pérez
+63
+42
+88
+95
+50
+Pedro Ortiz Ruiz
+41
+83
+86
+94
+54
